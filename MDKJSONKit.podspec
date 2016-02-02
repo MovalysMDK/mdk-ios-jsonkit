@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
   spec.name      = "MDKJSONKit"
-  spec.version   = "1.0"
+  spec.version   = "1.0.0"
   spec.summary   = "MDKJSONKit is JSONKit compatible iOS 9.0"
   spec.homepage  = "https://www.movalys.org"
 

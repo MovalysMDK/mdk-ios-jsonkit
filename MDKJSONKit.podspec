@@ -55,7 +55,7 @@ Pod::Spec.new do |spec|
   #  Specify the location from where the source should be retrieved.
   #  Supports git, hg, bzr, svn and HTTP.
   #
-  spec.source = { :git => "https://github.com/MovalysMDK/mdk-ios-jsonkit.git", :tag => "1.0" }
+  spec.source = { :git => "https://github.com/MovalysMDK/mdk-ios-jsonkit.git", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

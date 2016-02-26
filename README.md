@@ -1,9 +1,8 @@
 # mdk-ios-jsonkit
-**Movalys MDK: iOS Framework**
 
 ## What?
 
-Home version of jsonkit for iOS-8 and iOS-9 provided by Movalys MDK.
+Home version of jsonkit compatible with iOS 8 and iOS 9, used by Movalys MDK.
 
 ## Documentation
 
